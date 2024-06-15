@@ -1,0 +1,1 @@
+Este proyecto consiste en la construccion de un instrumento musical basado en un sensor de ultrasonido. Mediante una tira led se puede visualizar la posicion de las notas en el espacio y con un pulsador seleccionar las escalas predeterminadas.
